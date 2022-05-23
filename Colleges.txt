@@ -1,0 +1,7 @@
+University of Maryland| 3.5|1200|25
+University of Maryland|3.5|1200|25
+University of Chicago|3.2|1080|24
+University of Illinois| 2.8|1050|21
+University of Ohio|3.6|1120|26
+University of Florida|3.3|1100|23
+University of Miami|3.1|900|21
